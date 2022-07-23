@@ -17,23 +17,6 @@ function startGame() {
       btns.style.justifyContent="space-between";
       title.style.fontSize="36px";
       rule.style.display="none";
-      // let game = document.createElement('iframe');
-      // // game.style.display = 'none';
-      // game.src = "https://darrin-lin.github.io/space-game-test/";
-      // game.height = "585px";
-      // game.width = "960px";
-      // document.getElementById('gameLocation').appendChild(game);
-      // let re = document.createElement('button');
-      // re.id='restart';
-      // re.textContent="RESTART";
-      // document.getElementById('buttonsLocation').appendChild(re);
-      // let hm = document.createElement('button');
-      // hm.id='home';
-      // hm.textContent="HOME";
-      // document.getElementById('buttonsLocation').appendChild(hm);
-      // const rmst = document.getElementById('start');
-      // rmst.remove();
-      // homeBtn= document.getElementById('home');
 };
 function startPage() {
       title.style.fontSize="60px";
@@ -43,15 +26,6 @@ function startPage() {
       btns.style.justifyContent="space-around";
       start.style.display="initial";
       rule.style.display="initial";
-      // let sta = document.createElement('button');
-      // sta.id='start';
-      // sta.textContent="START";
-      // document.getElementById('buttonsLocation').appendChild(sta);
-      // const rmre = document.getElementById('restart');
-      // rmre.remove();
-      // const rmhm = document.getElementById('home');
-      // rmhm.remove();
-      // startBtn= document.getElementById('start');
 };
 function restartGame(){
       game.src=game.src;
