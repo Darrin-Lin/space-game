@@ -10,7 +10,7 @@ Game is made by Unity.
 
 ### [Website](https://darrin-lin.github.io/space-game/)
 
-### rules
+### Rules
 * Using `A` button to go left and `D` button to go right.
 * `space` button to shoot.
 * Using spacecraft to destroy the asteroids.
